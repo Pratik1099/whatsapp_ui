@@ -40,6 +40,7 @@ class MobileChatScreen extends StatelessWidget {
       ),
       body: Column(
         children: const [
+          //chatlist
           Expanded(
             child: ChatList(),
           ),
