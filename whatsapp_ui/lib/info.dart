@@ -1,20 +1,20 @@
 const info = [
   {
-    'name': 'Rivaan Ranawat',
+    'name': 'Pratik Agrawal',
     'message': 'Hey, how are you doing?',
     'time': '3:53 pm',
     'profilePic':
         'https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg',
   },
   {
-    'name': 'John Doe',
+    'name': 'Divit',
     'message': 'Hello, whats up',
     'time': '2:25 pm',
     'profilePic':
         'https://www.socialketchup.in/wp-content/uploads/2020/05/fi-vill-JOHN-DOE.jpg',
   },
   {
-    'name': 'Naman Ranawat',
+    'name': 'Naman kumar',
     'message': 'Hello, I want to sleep.',
     'time': '1:03 pm',
     'profilePic':
@@ -28,7 +28,7 @@ const info = [
         'https://pbs.twimg.com/profile_images/1419974913260232732/Cy_CUavB.jpg',
   },
   {
-    'name': 'Mom',
+    'name': 'Mummy',
     'message': 'You ate food?',
     'time': '10:00 am',
     'profilePic':
